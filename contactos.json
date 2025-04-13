@@ -1,0 +1,132 @@
+[
+    {
+        "nombre": "Juan Perez",
+        "telefono": "123456789",
+        "email": "juan@example.com",
+        "grupos": [
+            "Familia",
+            "Amigos"
+        ],
+        "etiquetas": [
+            "Cliente VIP",
+            "Cumplea\u00c3\u00b1os en Marzo"
+        ],
+        "historial_interacciones": [
+            {
+                "tipo": "Llamada",
+                "fecha": "2025-04-10",
+                "notas": "Se habl\u00c3\u00b3 sobre el proyecto X"
+            },
+            {
+                "tipo": "Correo",
+                "fecha": "2025-04-11",
+                "notas": "Se envi\u00c3\u00b3 propuesta"
+            }
+        ]
+    },
+    {
+        "nombre": "Maria Garcia",
+        "telefono": "987654321",
+        "email": "maria@example.com",
+        "grupos": [
+            "Trabajo"
+        ],
+        "etiquetas": [
+            "Proveedor"
+        ],
+        "historial_interacciones": [
+            {
+                "tipo": "Reuni\u00c3\u00b3n",
+                "fecha": "2025-04-09",
+                "notas": "Se discutieron los t\u00c3\u00a9rminos del contrato"
+            }
+        ]
+    },
+    {
+        "nombre": "Carlos Rodriguez",
+        "telefono": "555123456",
+        "email": "carlos@example.com",
+        "grupos": [
+            "Amigos"
+        ],
+        "etiquetas": [],
+        "historial_interacciones": []
+    },
+    {
+        "nombre": "Ana Martinez",
+        "telefono": "111222333",
+        "email": "ana@example.com",
+        "grupos": [
+            "Familia"
+        ],
+        "etiquetas": [
+            "Cumplea\u00c3\u00b1os en Abril"
+        ],
+        "historial_interacciones": []
+    },
+    {
+        "nombre": "Sofia Lopez",
+        "telefono": "444555666",
+        "email": "sofia@example.com",
+        "grupos": [
+            "Trabajo",
+            "Clientes"
+        ],
+        "etiquetas": [
+            "Contacto Principal"
+        ],
+        "historial_interacciones": [
+            {
+                "tipo": "Correo",
+                "fecha": "2025-04-12",
+                "notas": "Seguimiento de la oferta"
+            }
+        ]
+    },
+    {
+        "nombre": "Pedro Gomez",
+        "telefono": "777888999",
+        "email": "pedro@example.com",
+        "grupos": [
+            "Familia"
+        ],
+        "etiquetas": [],
+        "historial_interacciones": [
+            {
+                "tipo": "Llamada",
+                "fecha": "2025-04-05",
+                "notas": "Felicitaciones por el nuevo trabajo"
+            }
+        ]
+    },
+    {
+        "nombre": "Laura Vargas",
+        "telefono": "333222111",
+        "email": "laura@example.com",
+        "grupos": [
+            "Estudios"
+        ],
+        "etiquetas": [
+            "Compa\u00c3\u00b1era de Proyecto"
+        ],
+        "historial_interacciones": []
+    },
+    {
+        "nombre": "Manuel Torres",
+        "telefono": "666777888",
+        "email": "manuel@example.com",
+        "grupos": [
+            "Trabajo"
+        ],
+        "etiquetas": [
+            "Jefe de Departamento"
+        ],
+        "historial_interacciones": [
+            {
+                "tipo": "Reuni\u00c3\u00b3n",
+                "fecha": "2025-04-11",
+                "notas": "Evaluaci\u00c3\u00b3n de desempe\u00c3\u00b1o"
+            }
+        ]
+    }
+]

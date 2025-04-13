@@ -25,6 +25,23 @@ Este proyecto permite gestionar contactos mediante una interfaz gráfica desarro
 - PIL para manejo de imágenes
 
 ---
+##  Estructura del proyecto
+```
+gestion_contactos/
+├── agregar.jpg              # Icono de botón Agregar
+├── calendario.py            # Lógica para recordatorios en Google Calendar
+├── cargar_imagenes.py       # Función para cargar imágenes en la interfaz
+├── contactos.py             # CRUD de contactos (guardar, cargar, eliminar)
+├── contactos.json           # Archivo de almacenamiento local de contactos
+├── credentials.json         # Credenciales OAuth de Google
+├── ejecutar.py              # Script principal para lanzar la aplicación
+├── fondo.jpg                # Imagen de fondo de la interfaz
+├── gui.py                   # Interfaz gráfica Tkinter
+├── preview_tkinter.png      # Captura de pantalla de la app en ejecución
+├── quickstart.py            # Configuración inicial de Google Calendar API
+├── token.json               # Token OAuth para acceder a la cuenta de Google
+└── token.pickle             # Archivo de sesión OAuth
+```
 
 ## ▶️ Ejecución
 

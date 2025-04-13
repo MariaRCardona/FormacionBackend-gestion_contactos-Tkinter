@@ -42,10 +42,6 @@ gestion_contactos/
 ├── token.json               # Token OAuth para acceder a la cuenta de Google
 └── token.pickle             # Archivo de sesión OAuth
 ```
+🧑‍💻 Autor
+Este sistema fue desarrollado como parte de un proyecto personal para automatizar la gestión de contactos con recordatorios integrados usando Python, Tkinter y Google Calendar.
 
-## ▶️ Ejecución
-
-Para ejecutar el proyecto:
-
-```bash
-python ejecutar.py

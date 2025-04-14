@@ -28,7 +28,6 @@ Este proyecto permite gestionar contactos mediante una interfaz gráfica desarro
 ##  Estructura del proyecto
 ```
 gestion_contactos/
-├── agregar.jpg              # Icono de botón Agregar
 ├── calendario.py            # Lógica para recordatorios en Google Calendar
 ├── cargar_imagenes.py       # Función para cargar imágenes en la interfaz
 ├── contactos.py             # CRUD de contactos (guardar, cargar, eliminar)

@@ -2,7 +2,7 @@
 
 Este proyecto permite gestionar contactos mediante una interfaz gráfica desarrollada en Tkinter. Integra funcionalidades para añadir, eliminar contactos, y crear recordatorios que pueden ser sincronizados con Google Calendar.
 
-![CONTACT US](https://github.com/user-attachments/assets/52c35a87-ab34-423c-a70a-6f1fd5f8e3ad)
+![CONTACT US](https://github.com/user-attachments/assets/7dd2e1ab-c8dd-4c72-b7ca-0fe5b22f1b25)
 
 ---
 
@@ -42,5 +42,5 @@ gestion_contactos/
 └── token.pickle             # Archivo de sesión OAuth
 ```
 🧑‍💻 Autor
-Este sistema fue desarrollado como parte de un proyecto personal para automatizar la gestión de contactos con recordatorios integrados usando Python, Tkinter y Google Calendar.
+Este sistema fue desarrollado como parte de un proyecto personal para la Formación Avanzada en Desarrollo Backend (Python, Flask, Django) (En curso) IBM SkillsBuild / Bejob para automatizar la gestión de contactos con recordatorios integrados usando Python, Tkinter y Google Calendar.
 

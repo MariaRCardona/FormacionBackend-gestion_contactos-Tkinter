@@ -4,17 +4,21 @@ Este proyecto permite gestionar contactos mediante una interfaz gráfica desarro
 
 ![CONTACT US](https://github.com/user-attachments/assets/7dd2e1ab-c8dd-4c72-b7ca-0fe5b22f1b25)
 
----
+## Objetivo del proyecto
+Desarrollado como parte del proyecto personal para el programa de Formación Avanzada en Desarrollo Backend (Python, Flask, Django) – IBM SkillsBuild / Bejob, este sistema tiene como finalidad:
+- Aplicar habilidades de desarrollo de interfaces gráficas con Python.
+- Integrar servicios en la nube utilizando APIs externas (Google Calendar).
+- Implementar buenas prácticas de almacenamiento y manejo de datos locales.
+- Ofrecer una solución práctica para la automatización de la gestión de contactos y recordatorios.
 
-## 🚀 Funcionalidades principales
+##  Funcionalidades principales
 
-- 📇 Agregar contactos (nombre, teléfono, email)
-- ❌ Eliminar contactos seleccionados
-- 📅 Crear recordatorios desde la interfaz
-- ☁️ Integración con Google Calendar (OAuth)
-- 🎨 Interfaz gráfica amigable con fondo personalizado
+-  Agregar contactos (nombre, teléfono, email)
+-  Eliminar contactos seleccionados
+-  Crear recordatorios desde la interfaz
+-  Integración con Google Calendar (OAuth)
+-  Interfaz gráfica amigable con fondo personalizado
 
----
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -24,7 +28,7 @@ Este proyecto permite gestionar contactos mediante una interfaz gráfica desarro
 - Google API (Calendar)
 - PIL para manejo de imágenes
 
----
+
 ##  Estructura del proyecto
 ```
 gestion_contactos/

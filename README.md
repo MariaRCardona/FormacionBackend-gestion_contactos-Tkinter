@@ -45,6 +45,11 @@ gestion_contactos/
 ├── token.json               # Token OAuth para acceder a la cuenta de Google
 └── token.pickle             # Archivo de sesión OAuth
 ```
+
+## Demostración de la aplicación
+
+Puedes ver el funcionamiento de la aplicación en este video: [Demostración en YouTube]([https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO](https://youtu.be/y9etWK2sf7o))
+
 ##
 **María José Rivas Cardona**
 Este sistema fue desarrollado como parte de un proyecto personal para la Formación Avanzada en Desarrollo Backend (Python, Flask, Django) (En curso) IBM SkillsBuild / Bejob para automatizar la gestión de contactos con recordatorios integrados usando Python, Tkinter y Google Calendar.

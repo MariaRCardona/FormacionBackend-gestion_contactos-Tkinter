@@ -48,7 +48,8 @@ gestion_contactos/
 
 ## Demostración de la aplicación
 
-Puedes ver el funcionamiento de la aplicación en este video: [Demostración en YouTube]([https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO](https://youtu.be/y9etWK2sf7o))
+Puedes ver el funcionamiento de la aplicación en este video: [Demostración en YouTube](https://youtu.be/y9etWK2sf7o)
+
 
 ##
 **María José Rivas Cardona**
